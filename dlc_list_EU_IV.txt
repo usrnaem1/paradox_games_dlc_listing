@@ -110,3 +110,7 @@
 2012010=Scandinavian Unit Pack
 2012010=Scandinavian Music Pack
 2012010=Baltics Music Pack
+2223660=Domination
+2412250=China History Lessons
+2412251=Japan History Lessons
+2502910=King of Kings
